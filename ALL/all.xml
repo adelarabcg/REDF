@@ -8,24 +8,16 @@
 	<name1>PBR Material 1</name1>
         
 	<link1>https://bloggertest1990.blogspot.com/search/label/PBR?&max-results=30</link1>
-	
+	<name3>.....</name3>
+	<link1>.....</link1>
 
-	
-</material>
-
-
-
-
-<model>
 	<name2>Bathroom</name2>
-        
-	<link2>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link2>
+    <link2>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link2>
 
-	<name2>Bed</name2>
-        
+	<name2>Bed</name2>   
 	<link2>https://bloggertest1990.blogspot.com/search/label/Bed?&max-results=30</link2>
 
-		<name2>Building</name2>
+	<name2>Building</name2>
         
 	<link2>https://bloggertest1990.blogspot.com/search/label/Building?&max-results=30</link2>
 	<name2>Cabinet</name2>
@@ -48,21 +40,8 @@
 	<name2>Curtains</name2>
         
 	<link2>https://bloggertest1990.blogspot.com/search/label/Curtains?&max-results=30</link2>
-		
-</model>
-		
 
-
-
-
-
-
-<learn>
-	<name3>.....</name3>
-	<link3>https://www.youtube.com</link1>
-</learn>
-
-
+</material>
 
 
 
