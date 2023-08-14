@@ -17,37 +17,37 @@
 
 
 <model>
-	<name1>Bathroom</name1>
+	<name2>Bathroom</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link2>
 
-	<name1>Bed</name1>
+	<name2>Bed</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Bed?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Bed?&max-results=30</link2>
 
-		<name1>Building</name1>
+		<name2>Building</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Building?&max-results=30</link1>
-	<name1>Cabinet</name1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Building?&max-results=30</link2>
+	<name2>Cabinet</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Cabinet?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Cabinet?&max-results=30</link2>
 
-	<name1>Carpets</name1>
+	<name2>Carpets</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Carpets?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Carpets?&max-results=30</link2>
 
 
-	<name1>Cars</name1>
+	<name2>Cars</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Cars?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Cars?&max-results=30</link2>
 
-	<name1>Chair</name1>
+	<name2>Chair</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Chair?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Chair?&max-results=30</link21>
 
-	<name1>Curtains</name1>
+	<name2>Curtains</name2>
         
-	<link1>https://bloggertest1990.blogspot.com/search/label/Curtains?&max-results=30</link1>
+	<link2>https://bloggertest1990.blogspot.com/search/label/Curtains?&max-results=30</link2>
 		
 </model>
 		
@@ -58,8 +58,8 @@
 
 
 <learn>
-	<name1>.....</name1>
-	<link1>.....</link1>
+	<name3>.....</name3>
+	<link3>https://www.youtube.com</link1>
 </learn>
 
 
