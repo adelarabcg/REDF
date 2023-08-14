@@ -8,8 +8,7 @@
 	<link1>https://bloggertest1990.blogspot.com/search/label/PBR?&max-results=30</link1>
 	<name3>.....</name3>
 	<link3>.....</link3>
-	<name2>Bathroom</name2>
-    <link2>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link2>
+	
 	<name2>Bed</name2>   
 	<link2>https://bloggertest1990.blogspot.com/search/label/Bed?&max-results=30</link2>
 	<name2>Building</name2>
@@ -27,6 +26,9 @@
 	
 </models>
 
-
+<models>
+	<name2>Bathroom</name2>
+    <link2>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link2>
+</models>
 
 </root>
