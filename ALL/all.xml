@@ -31,6 +31,65 @@
 	
 </material>
 
+
+
+<model>
+	<name1>Bathroom</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link1>
 		
+</model>
+<model>
+	<name1>Bed</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Bed?&max-results=30</link1>
+		
+</model>
+<model>
+	<name1>Building</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Building?&max-results=30</link1>
+		
+</model>
+<model>
+	<name1>Cabinet</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Cabinet?&max-results=30</link1>
+		
+</model>		
+<model>
+	<name1>Carpets</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Carpets?&max-results=30</link1>
+		
+</model>
+<model>
+	<name1>Cars</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Cars?&max-results=30</link1>
+		
+</model>
+<model>
+	<name1>Chair</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Chair?&max-results=30</link1>
+		
+</model>
+<model>
+	<name1>Curtains</name1>
+        
+	<link1>https://bloggertest1990.blogspot.com/search/label/Curtains?&max-results=30</link1>
+		
+</model>
+
+
+<learn>
+	<name1>.....</name1>
+	<link1>.....</link1>
+</learn>
+
+
+
+
 
 </root>
