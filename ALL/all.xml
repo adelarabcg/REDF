@@ -2,20 +2,20 @@
 <root>
 
 
-<models>
+<Material>
 	<name1>PBR Material 1</name1>    
 	<link1>https://bloggertest1990.blogspot.com/search/label/PBR?&max-results=30</link1>
-</models>
+</Material>
 
-<models>
-	<name3>العنصر الاول</name3>
+<learn>
+	<name3> item 1</name3>
 	<link3>https://www.gmail.com</link3>
-</models>
-<models>	
-	<name3>العنصر الثاني</name3>
+</learn>
+<learn>	
+	<name3>itrm 2 </name3>
 	<link3>https://www.googledrive.com</link3>
 	
-</models>
+</learn>
 
 
 <models>
