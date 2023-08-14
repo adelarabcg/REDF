@@ -2,12 +2,11 @@
 <root>
 
 
-
 <models>
 	<name1>PBR Material 1</name1>    
 	<link1>https://bloggertest1990.blogspot.com/search/label/PBR?&max-results=30</link1>
 </models>
-<!--بداية الاسطوانات التعليميه -->
+
 <models>
 	<name3>العنصر الاول</name3>
 	<link3>https://www.gmail.com</link3>
@@ -17,8 +16,8 @@
 	<link3>https://www.googledrive.com</link3>
 	
 </models>
-<!--نهاية الاسطوانات التعليميه-->
-<!--الموديلات-->
+
+
 <models>
 	<name2>Bathroom</name2>
     <link2>https://bloggertest1990.blogspot.com/search/label/Bathroom?&max-results=30</link2>
@@ -29,7 +28,7 @@
 </models>
 
 <models>
-<name2>Bed</name2>   
+	<name2>Bed</name2>   
 	<link2>https://bloggertest1990.blogspot.com/search/label/Bed?&max-results=30</link2>
 </models>
 
@@ -61,7 +60,8 @@
 <models>
 	<name2>Curtains</name2>      
 	<link2>https://bloggertest1990.blogspot.com/search/label/Curtains?&max-results=30</link2>
+</models>
 
 
-<!--نهاية الموديلات-->
+
 </root>
