@@ -2,68 +2,48 @@
 <root>
 
 
-
+<!--г”б”б«  Џ—»н… -->
 <models>
-	<name1>√Ёб«г Џ—»не</name1>
+	<name1>г”б”б«  Џ—»н…</name1>
         
-	<link1>https://kenzpro1.blogspot.com/search/label/movies</link1>
-	
+	<link1>https://kenzpro1.blogspot.com/search/label/movies</link1>	
 </models>
 
-<models>
-	<name1>«Ёб«г «ћд»не</name1>
-        
-	<link1>http://www.google.com</link1>
-	
-</models>
-
-<models>
-	<name1>«Ёб«г едѕне</name1>
-        
-	<link1>http://www.google.com</link1>
-	
-</models>
-
+<!--г”б”б«  г’—не -->
 <models>
 	<name1>г”б”б«  г’—не</name1>
         
-	<link1>http://www.google.com</link1>
-	
+	<link1>http://www.google.com</link1>	
 </models>
 
+<!--г”б”б«  «ћд»не -->
 <models>
-	<name1>г”б”б«  ќбнћне</name1>
+	<name1>г”б”б«  «ћд»н…</name1>
+        
+	<link1>http://www.google.com</link1>	
+</models>
+
+<!-- г”б”б«   —яне -->
+<models>
+	<name1>г”б”б«   —ян…</name1>
+        
+	<link1>http://www.google.com</link1>	
+</models>
+
+<!-- г”б”б«  едѕне -->
+<models>
+	<name1>г”б”б«  едѕн…</name1>
         
 	<link1>http://www.google.com</link1>
-	
 </models>
 
-<models>
-	<name1>г”б”б«  √ћд»не</name1>
-        
-	<link1>http://www.google.com</link1>
-	
-</models>
-
-<models>
-	<name1>г”б”б«   —яне</name1>
-        
-	<link1>http://www.google.com</link1>
-	
-</models>
-
-<models>
-	<name1>г”б”б«  едѕне</name1>
-        
-	<link1>http://www.google.com</link1>
-	
-</models>
-
+<!-- г”б”б«  яж—не -->
 <models>
 	<name1>г”б”б«  яж—не</name1>
         
-	<link1>http://www.google.com</link1>
-	
+	<link1>http://www.google.com</link1>	
 </models>
+
+
 
 </root>
