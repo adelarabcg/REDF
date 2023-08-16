@@ -4,42 +4,43 @@
 
 <!--„”·”·«  ⁄—»Ì… -->
 <models>
-	<name1>„”·”·«  ⁄—»Ì…</name1>
-        
+	<name1>Arabic Series </name1>
+    <name2>„”·”·«  ⁄—»Ì…</name2>    
 	<link1>https://kenzpro1.blogspot.com/search/label/movies</link1>	
 </models>
 
 <!--„”·”·«  „’—ÌÂ -->
 <models>
-	<name1>„”·”·«  „’—ÌÂ</name1>
-        
+	<name1>Egyption series</name1>
+    <name2>„”·”·«  „’—ÌÂ</name2>    
 	<link1>http://www.google.com</link1>	
 </models>
 
 <!--„”·”·«  «Ã‰»ÌÂ -->
 <models>
-	<name1>„”·”·«  «Ã‰»Ì…</name1>
-        
+	<name1>English series</name1>
+    <name2>„”·”·«  «Ã‰»Ì…</name2>    
 	<link1>http://www.google.com</link1>	
 </models>
 
 <!-- „”·”·«   —ﬂÌÂ -->
 <models>
-	<name1>„”·”·«   —ﬂÌ…</name1>
-        
+	<name1>Turkish Series</name1>
+    <name2>„”·”·«   —ﬂÌ…</name2>  
 	<link1>http://www.google.com</link1>	
 </models>
 
 <!-- „”·”·«  Â‰œÌÂ -->
 <models>
-	<name1>„”·”·«  Â‰œÌ…</name1>
-        
+	<name1>Indian series</name1>
+    <name2>„”·”·«  Â‰œÌ…</name2>
 	<link1>http://www.google.com</link1>
 </models>
 
 <!-- „”·”·«  ﬂÊ—ÌÂ -->
 <models>
-	<name1>„”·”·«  ﬂÊ—ÌÂ</name1>
+	<name1>Korean series</name1>
+	<name2>„”·”·«  ﬂÊ—ÌÂ</name2>
         
 	<link1>http://www.google.com</link1>	
 </models>

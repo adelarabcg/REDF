@@ -4,7 +4,15 @@
 
 
 <models>
-	<name1>Androied Section</name1>
+	<name1>Androied App</name1>
+	<name2>تطبيقات للاندرويد</name2>
+        
+	<link1>http://www.google.com</link1>
+	
+</models>
+<models>
+	<name1>Androied Games</name1>
+	<name2>ألعاب للاندرويد</name2>
         
 	<link1>http://www.google.com</link1>
 	
